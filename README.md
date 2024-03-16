@@ -2,9 +2,9 @@
 
 ## About Me
 
-🌟 **Name:** Elainê Barbára Bórgez
-🌎 **Location:** London 🇬🇧  
-📚 **Studying:** Software Engineering with [HyperionDev](https://www.hyperiondev.com/)  
+- 🌟 **Name:** Elainê Barbára Bórgez
+- 🌎 **Location:** London 🇬🇧  
+- 📚 **Studying:** Software Engineering with [HyperionDev](https://www.hyperiondev.com/)  
 - 👩‍💻 **Learning:** Python 🐍, OOP 🧠, System Analysis 📊, System Design 💻, C Language 🖥️, SQL 🗃️
 - 🚀 **Career Goals:** Aspiring software engineer passionate about leveraging technology to create impactful solutions.
 
