@@ -18,7 +18,6 @@
 - 💪 **Exercising:** Staying active and healthy through various forms of exercise.
 - 🌳 **Nature:** Enjoying walks in parks and spending time surrounded by nature.
 - 🧘 **Meditation:** Practicing mindfulness to stay focused and centered.
-- 🍷 **Drinking a Good Wine:** Appreciating a glass of good wine to unwind and relax.
 - 👫 **Socializing:** Going out with friends to unwind and have fun.
 - 🚴‍♀️ **Cycling:** Exploring new routes and challenging myself with long rides.
 
