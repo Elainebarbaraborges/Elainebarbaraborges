@@ -3,7 +3,7 @@
 ## About Me
 
 🌟 **Name:** Elainê Barbára Bórgez
-🌎 **Location:** Brazil 🇧🇷, currently living in London 🇬🇧  
+🌎 **Location:** London 🇬🇧  
 📚 **Studying:** Software Engineering with [HyperionDev](https://www.hyperiondev.com/)  
 👩‍💻 **Learning:** Python 🐍, OOP 🧠, System Analysis 📊, System Design 💻, and C Language 🖥️  
 🚀 **Career Goals:** Aspiring software engineer passionate about leveraging technology to create impactful solutions.
